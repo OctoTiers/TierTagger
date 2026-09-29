@@ -1,10 +1,10 @@
-{
+﻿{
   "schemaVersion": 1,
   "id": "Octo-tagger",
   "version": "${version}",
   "name": "Octotagger",
   "description": "Display player's PvP Tiers in their nametag!",
-  "authors": ["DoctoFrog", "DoctoCapybara"],
+  "authors": ["uku", "netiyiy (original creator)", "DoctoFrog", "DoctoCapybara"],
   "contact": {
     "sources": "https://github.com/mctiers-dev/TierTagger.git"
   },
