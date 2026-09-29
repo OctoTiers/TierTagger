@@ -13,9 +13,7 @@ it, so it stays out of your way.
 
 ## Credits
 
-Maintained by **DoctoFrog** and **DoctoCapybara**. Based on TierTagger by uku and
-netiyiy (https://github.com/mctiers-dev/TierTagger), licensed under MPL-2.0.
-See [`ATTRIBUTION.md`](ATTRIBUTION.md).
+Maintained by **DoctoFrog** and **DoctoCapybara**.
 
 ## API configuration
 
